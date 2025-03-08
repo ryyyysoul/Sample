@@ -12,7 +12,7 @@ My main role is _Jungle_
 - Fighter:  Yasuo **(Favorite Champion)**
             Aatrox
             Jayce
-- Support **(2nd Role)**: Nautilus
+- Tank **(2nd Role)**: Nautilus
                           Leona
 ### My Pentakills & Quadra Counts:
 - Penta:  10
