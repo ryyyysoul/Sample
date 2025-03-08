@@ -2,7 +2,7 @@
 This is my history of playing League of Legends since 2015
 
 ### About Me
-Hi I'm a player of League of Legends, my current rank is _Diamond IV_
+Hi I'm a player of League of Legends, my current rank is ***Diamond IV***
 My main role is _Jungle_
 
 ### Main Champions:
